@@ -6,7 +6,7 @@
 Welcome to Read the Docs Template's documentation (check)!
 ==================================================
 
-Contents:
+Contents (check):
 
 .. toctree::
    :maxdepth: 2
