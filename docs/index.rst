@@ -15,7 +15,6 @@ Contents:
 
 .. toctree::
    :numbered:
-   :titlesonly:
    :hidden:
    
    Useful admin stuff <Admin.rst>
