@@ -15,6 +15,7 @@ Contents:
 
 .. toctree::
    :numbered:
+   
    Useful admin stuff <Admin.rst>
    authors.rst
    
