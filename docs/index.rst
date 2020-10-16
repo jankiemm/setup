@@ -18,3 +18,11 @@ Contents2e (check):
    
    authors.rst
    
+   
+   .. code-block:: bash
+   :linenos:
+
+   for i in 1 to 24
+    do
+    parallel
+    done
