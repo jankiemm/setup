@@ -6,7 +6,7 @@
 Welcome to Read the Docs Template's documentation (chec2k)!
 ==================================================
 
-Contentse (check):
+Contents2e (check):
 
 .. toctree::
    :maxdepth: 2
