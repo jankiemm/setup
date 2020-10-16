@@ -6,7 +6,8 @@ Install the package with pip::
 
     $ pip install read-the-docs-template
 
-
+Mounting researchdata share::
+   $ USER=UCT_login mount /scratch/researchdata_mri
 ============
 Mellanox switch
 ============
