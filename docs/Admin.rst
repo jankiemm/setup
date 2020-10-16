@@ -2,7 +2,7 @@
 Administation
 ========
 
-Useful dode snippets
+Useful code snippets
 --------
 
 Install the package with pip::
@@ -13,7 +13,7 @@ Mounting researchdata share::
 
     $ USER=UCT_login mount /scratch/researchdata_mri
 
-Freeurfer and copying os symbolic links::
+Freesurfer and copying of symbolic links::
 
     $ cp -rL 'from' 'to'
 
