@@ -12,7 +12,7 @@ Contents (check):
    :maxdepth: 2
    :glob:
 
-   *
+   docs/usage.rst
 
 
 
