@@ -14,7 +14,6 @@ Relevant Software: AFNI (latest version, updated weekly), Freesurfer 6.0.1, Infa
 Contents:
 
 .. toctree::
-   :maxdepth: 1
    
    Useful admin stuff <Admin.rst>
    authors.rst
