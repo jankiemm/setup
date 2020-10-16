@@ -1,9 +1,9 @@
 
 Administation
-******
+========
 
 Useful dode snippets
-======
+--------
 
 Install the package with pip::
 
@@ -13,8 +13,14 @@ Mounting researchdata share::
 
     $ USER=UCT_login mount /scratch/researchdata_mri
 
+Freeurfer and copying os symbolic links::
+
+    $ cp -rL 'from' 'to'
+
+where: -r recursive, -L dereference (i.e. file in the source tree will be copied to a regular file in the destination tree).
+
 Port splitting on Mellanox switch
-======
+-------
 
 ssh to the switch::
 
