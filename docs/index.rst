@@ -11,7 +11,7 @@ There are 24 nodes in in the partition (RomanEmpire), they are called rome0[01-2
 
 Relevant Software: AFNI (latest version, updated weekly), Freesurfer 6.0.1, Infant Freesurfer , FSL 5.0.10, TORTOISE 3.1.0-3.1.2, SPM12, Matlab 2018a, R 3.6.3I can install new version of Freesurfer and FSL.
 
-Contents2e (check):
+Contents:
 
 .. toctree::
    :maxdepth: 1
