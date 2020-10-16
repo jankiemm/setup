@@ -3,14 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation (chec2k)!
+CUBIC server repository
 ==================================================
 
-OS: Ubuntu 18.04.4 on
+This page is intended to assist researchers with running jobs on our cluster.
+There are 24 nodes in in the partition (RomanEmpire), they are called rome0[01-24]. Each of the nodes is powered by EPYC Rome CPU with 64 cores (128 threads) clocked at 2GHz. Each node has 512GB of memory and 2TB oh HD space (where the software resides). The calculations are done in user's directory /scratch/username which is a shared 80TB NFS.
+
 Relevant Software: AFNI (latest version, updated weekly), Freesurfer 6.0.1, Infant Freesurfer , FSL 5.0.10, TORTOISE 3.1.0-3.1.2, SPM12, Matlab 2018a, R 3.6.3I can install new version of Freesurfer and FSL.
 
 Contents2e (check):
 
 .. toctree::
    :maxdepth: 2
+   
+   authors.rst
    
