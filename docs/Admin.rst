@@ -10,7 +10,7 @@ Mounting researchdata share::
 
     $ USER=UCT_login mount /scratch/researchdata_mri
 ============
-Mellanox switch
+Port splitting on Mellanox switch
 ============
 
 ssh to the switch::
