@@ -10,9 +10,11 @@ Contents (check):
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
+   *
+   docs/installation.rst
 
-   docs/usage.rst
 
 
 
