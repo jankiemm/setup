@@ -1,4 +1,4 @@
-------------
+
 Installation
 ------------
 
@@ -10,7 +10,6 @@ Mounting researchdata share::
 
     $ USER=UCT_login mount /scratch/researchdata_mri
 
-------------
 Port splitting on Mellanox switch
 ------------
 
@@ -30,10 +29,15 @@ ssh to the switch::
     switch-f66e1c [standalone: master] (config) # exit
     switch-f66e1c [standalone: master] # exit
     
-~~~~~~~~~~
+
 Installation2
 ~~~~~~~~~~
 
 Install the package with pip::
 
     $ pip install read-the-docs-template
+
+Table of contents options
+-------------------------
+
+sdfsfs
