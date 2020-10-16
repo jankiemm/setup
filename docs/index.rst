@@ -19,10 +19,11 @@ Contents2e (check):
    authors.rst
    
    
-   .. code-block:: bash
-   :linenos:
+.. code-block:: python
+   :emphasize-lines: 3,5
 
-   for i in 1 to 24
-    do
-    parallel
-    done
+   def some_function():
+       interesting = False
+       print 'This line is highlighted.'
+       print 'This one is not...'
+       print '...but this one is.'
