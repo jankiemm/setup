@@ -1,6 +1,6 @@
-============
+------------
 Installation
-============
+------------
 
 Install the package with pip::
 
@@ -9,9 +9,9 @@ Install the package with pip::
 Mounting researchdata share::
 
     $ USER=UCT_login mount /scratch/researchdata_mri
-============
+------------
 Port splitting on Mellanox switch
-============
+------------
 
 ssh to the switch::
 
