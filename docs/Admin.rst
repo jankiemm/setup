@@ -1,6 +1,9 @@
 
-Installation
-------------
+Administation
+******
+
+Useful dode snippets
+======
 
 Install the package with pip::
 
@@ -11,7 +14,7 @@ Mounting researchdata share::
     $ USER=UCT_login mount /scratch/researchdata_mri
 
 Port splitting on Mellanox switch
-------------
+======
 
 ssh to the switch::
 
@@ -28,7 +31,21 @@ ssh to the switch::
     switch-f66e1c [standalone: master] (config) # q
     switch-f66e1c [standalone: master] (config) # exit
     switch-f66e1c [standalone: master] # exit
-    
+
+
+Installation1
+----------------
+
+Install the package with pip::
+
+    $ pip install read-the-docs-template
+
+Table
+------------
+
+sdfsfs
+
+
 
 Installation2
 ~~~~~~~~~~
