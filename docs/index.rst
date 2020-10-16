@@ -13,4 +13,5 @@ Contents2e (check):
 
 .. toctree::
    :maxdepth: 2
-
+   
+   installation.rst
