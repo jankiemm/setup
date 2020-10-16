@@ -16,9 +16,10 @@ Contents2e (check):
 .. toctree::
    :maxdepth: 2
    
+   Useful admin stuff <Admin.rst>
    authors.rst
    
-   
+
 .. code-block:: bash
    :emphasize-lines: 3,5
 
