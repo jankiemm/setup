@@ -28,3 +28,11 @@ ssh to the switch::
     switch-f66e1c [standalone: master] (config) # q
     switch-f66e1c [standalone: master] (config) # exit
     switch-f66e1c [standalone: master] # exit
+    
+~~~~~~~~~~~~
+Installation2
+~~~~~~~~~~~~
+
+Install the package with pip::
+
+    $ pip install read-the-docs-template
