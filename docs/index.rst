@@ -6,7 +6,7 @@
 Welcome to Read the Docs Template's documentation (chec2k)!
 ==================================================
 
-OS: Ubuntu 18.04.4 on 
+OS: Ubuntu 18.04.4 on
 Relevant Software: AFNI (latest version, updated weekly), Freesurfer 6.0.1, Infant Freesurfer , FSL 5.0.10, TORTOISE 3.1.0-3.1.2, SPM12, Matlab 2018a, R 3.6.3I can install new version of Freesurfer and FSL.
 
 Contents2e (check):
@@ -14,4 +14,3 @@ Contents2e (check):
 .. toctree::
    :maxdepth: 2
    
-   installation.rst
