@@ -13,7 +13,7 @@ Contents (check):
    :glob:
 
    *
-   docs/installation.rst
+   installation.rst
 
 
 
