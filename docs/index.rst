@@ -10,18 +10,7 @@ Contentse (check):
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   *
-   installation.rst
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   intro
+   basics
+   software
