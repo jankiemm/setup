@@ -1,5 +1,5 @@
 
-Administation
+Administration
 ========
 
 Useful code snippets
