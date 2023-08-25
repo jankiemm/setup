@@ -19,6 +19,9 @@ Freesurfer and copying of symbolic links::
 
 where: -r recursive, -L dereference (i.e. file in the source tree will be copied to a regular file in the destination tree).
 
+Offending keys::
+    $ https://www.bentoh.my/post/gpg-key-problem/
+
 Port splitting on Mellanox switch
 -------
 
